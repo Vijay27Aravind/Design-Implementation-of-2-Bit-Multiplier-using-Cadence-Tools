@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![386824219-7e435885-ee08-4115-bc76-649f12b5501b](https://github.com/user-attachments/assets/156e5a4f-eaec-4fda-b13c-e64222770fe3)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +66,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+ ![386824229-7fcd3493-6063-409c-ae83-b57b62372388](https://github.com/user-attachments/assets/12f82dd7-8a21-42e2-ab50-bf13c22d744a)
+
 
 
 
@@ -80,7 +82,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![386824237-8938dd61-e2ab-4745-8938-3fb6dbb70efe](https://github.com/user-attachments/assets/a5034663-9404-4b7a-ab0f-16a3e4108ab3)
+
 
  
 
@@ -95,14 +98,16 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![380368908-cefafc03-6c2e-4227-91fe-f21f1241754c](https://github.com/user-attachments/assets/cb71aa81-e6e8-4c53-ac0d-08adc7ccf90e)
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+
+![380368851-ccc48800-045e-4cf8-b9d7-bf8fc443e8ae](https://github.com/user-attachments/assets/390a28cc-285c-499b-8c17-e81ad24f3da5)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+![380368830-c13a30de-284c-4201-8bde-c9fc9e88234b](https://github.com/user-attachments/assets/dff5d2ad-55f8-4a11-a65e-d8ec04ff431c)
 
   
 
